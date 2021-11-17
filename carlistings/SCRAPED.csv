@@ -1,27 +1,27 @@
-Pagaminimo data,Rida,Kuro tipas,Kėbulo tipas,Durų skaičius,Pavarų dėžė,Vairo padėtis,"CO₂ emisija, g/km"
-2009,180 000 km,Benzinas,Sedanas,4/5,Automatinė,Kairėje,~ 278 g/km
-2014,240 000 km,Dyzelinas,Visureigis,4/5,Automatinė,Kairėje,"9,9"
-2012-10,169 000 km,Dyzelinas,Hečbekas,4/5,Automatinė,Kairėje,
-2014-12,162 990 km,Dyzelinas,Universalas,4/5,Automatinė,Kairėje,"7,1"
-2012-12,111 560 km,Benzinas / elektra,Sedanas,4/5,Automatinė,Kairėje,"6,5"
-2015-07,188 000 km,Dyzelinas,Universalas,4/5,Automatinė,Kairėje,"4,4"
-2012-10,225 000 km,Dyzelinas,Visureigis,4/5,Automatinė,Kairėje,"7,8"
-2012-10,189 000 km,Dyzelinas,Visureigis,4/5,Automatinė,Kairėje,"5,8"
-2010-07,265 000 km,Dyzelinas,Sedanas,4/5,Automatinė,Kairėje,"5,9"
-2004-08,377 230 km,Dyzelinas,Hečbekas,4/5,Mechaninė,Kairėje,
-2011-10,247 000 km,Dyzelinas,Visureigis,4/5,Automatinė,Kairėje,"6,8"
-1989-08,234 567 km,Benzinas / dujos,Sedanas,4/5,Mechaninė,Kairėje,
-2013-08,316 000 km,Dyzelinas,Hečbekas,4/5,Automatinė,Kairėje,"5,3"
-2011-10,248 000 km,Dyzelinas,Hečbekas,4/5,Automatinė,Kairėje,"5,8"
-2008-06,324 085 km,Dyzelinas,Vienatūris,4/5,Mechaninė,Kairėje,~ 182 g/km
-306 000 km,"1995 cm³, 184 AG (135kW)",Universalas,4/5,Galiniai,Klimato kontrolė,2022-04,"5,3"
-1996-08,471 000 km,Benzinas,Sedanas,4/5,Automatinė,Kairėje,
-244 000 km,"1700 cm³, 110 AG (81kW)",Universalas,4/5,Priekiniai,Klimato kontrolė,R16,
-2014-07,99 016 km,Benzinas,Sedanas,4/5,Automatinė,Kairėje,
-2016,166 500 km,Dyzelinas,Visureigis,4/5,Automatinė,Kairėje,"4,3"
-2013-11,111 018 km,Dyzelinas,Hečbekas,4/5,Automatinė,Kairėje,~ 109 g/km
-2004-07,398 000 km,Dyzelinas,Keleiviniai mikroautobusai,4/5,Automatinė,Kairėje,
-2015,220 000 km,Dyzelinas,Hečbekas,4/5,Automatinė,Kairėje,168 g/km
-263 500 km,"1998 cm³, 136 AG (100kW)",Kupė (Coupe),2/3,Priekiniai,Klimato kontrolė,R16,"7,6"
-2011-03,285 000 km,Dyzelinas,Universalas,4/5,Mechaninė,Kairėje,~ 150 g/km
-2013-06,225 231 km,Dyzelinas,Universalas,4/5,Mechaninė,Kairėje,~ 145 g/km
+Pagaminimo data,Rida,Variklis,Kuro tipas,Kėbulo tipas,Durų skaičius,Varantieji ratai,Pavarų dėžė,Klimato valdymas,Spalva,Vairo padėtis,Ratlankių skersmuo,"Nuosava masė, kg",Sėdimų vietų skaičius,Pirmosios registracijos šalis,Kėbulo numeris (VIN),SDK,Euro standartas,"CO₂ emisija, g/km",Taršos mokestis
+2009,180 000 km,,Benzinas,Sedanas,4/5,,Automatinė,,,Kairėje,,,,,,,,~ 278 g/km,
+2014,240 000 km,"2993 cm³, 292 AG (215kW)",Dyzelinas,Visureigis,4/5,Visi varantys (4х4),Automatinė,Klimato kontrolė,Juoda,Kairėje,,2115,5,,,Euro 5,199 g/km,"9,9","7,2"
+2012-10,169 000 km,"2993 cm³, 313 AG (230kW)",Dyzelinas,Hečbekas,4/5,,Automatinė,,Mėlyna / žydra,Kairėje,,,,,~ 146 g/km,,,,
+2014-12,162 990 km,"2993 cm³, 313 AG (230kW)",Dyzelinas,Universalas,4/5,Visi varantys (4х4),Automatinė,Klimato kontrolė,Juoda,Kairėje,,1950,5,Vokietija,,Euro 6,154 g/km,"7,1","5,2"
+2015-07,188 000 km,"1995 cm³, 218 AG (160kW)",Dyzelinas,Universalas,4/5,Galiniai,Automatinė,Klimato kontrolė,Pilka / sidabrinė,Kairėje,,1760,5,Vokietija,Euro 6,129 g/km,"5,8","4,4","4,9"
+2012-10,189 000 km,"2993 cm³, 313 AG (230kW)",Dyzelinas,Visureigis,4/5,Visi varantys (4х4),Automatinė,Klimato kontrolė,Juoda,Kairėje,,1850,5,Vokietija,Euro 5,162 g/km,"6,7","5,8","6,1"
+2012-12,111 560 km,"3456 cm³, 345 AG (254kW)",Benzinas / elektra,Sedanas,4/5,Galiniai,Automatinė,Klimato kontrolė,Mėlyna / žydra,Kairėje,,1820,5,Vokietija,,Euro 5,137 g/km,"6,5","5,4"
+2012-10,225 000 km,"2987 cm³, 258 AG (190kW)",Dyzelinas,Visureigis,4/5,Visi varantys (4х4),Automatinė,Klimato kontrolė,Juoda,Kairėje,,2175,5,Vokietija,,Euro 6,179 g/km,"7,8","6,3"
+1996-08,471 000 km,,Benzinas,Sedanas,4/5,,Automatinė,,,Kairėje,,,,,,,,,
+2011-10,247 000 km,"2993 cm³, 306 AG (225kW)",Dyzelinas,Visureigis,4/5,Visi varantys (4х4),Automatinė,Klimato kontrolė,Juoda,Kairėje,,2110,5,Vokietija,Euro 5,198 g/km,"8,8","6,8","7,5"
+2011-10,248 000 km,"2993 cm³, 299 AG (220kW)",Dyzelinas,Hečbekas,4/5,Galiniai,Automatinė,Klimato kontrolė,Juoda,Kairėje,,1970,5,Vokietija,Euro 5,175 g/km,"8,3","5,8","6,7"
+2013-06,225 231 km,"2000 cm³, 163 AG (120kW)",Dyzelinas,Universalas,4/5,Priekiniai,Mechaninė,Klimato kontrolė,Juoda,Kairėje,,,5,,,,,~ 145 g/km,
+2004-08,377 230 km,140 AG (103kW),Dyzelinas,Hečbekas,4/5,,Mechaninė,Oro kondicionierius,,Kairėje,,,5,Prancūzija,~ 148 g/km,,,,
+2013-08,316 000 km,"2993 cm³, 313 AG (230kW)",Dyzelinas,Hečbekas,4/5,Galiniai,Automatinė,Klimato kontrolė,Pilka / sidabrinė,Kairėje,,1970,5,Vokietija,Euro 5,154 g/km,"6,9","5,3","5,9"
+2008-06,324 085 km,"1896 cm³, 105 AG (77kW)",Dyzelinas,Vienatūris,4/5,,Mechaninė,,,Kairėje,,,,,,,,~ 182 g/km,
+2010-07,265 000 km,"2993 cm³, 245 AG (180kW)",Dyzelinas,Sedanas,4/5,Galiniai,Automatinė,Klimato kontrolė,Juoda,Kairėje,,1865,5,Vokietija,Euro 5,194 g/km,"9,5","5,9","7,2"
+2013-11,111 018 km,"1800 cm³, 109 AG (80kW)",Dyzelinas,Hečbekas,4/5,Priekiniai,Automatinė,,Juoda,Kairėje,,,5,,,,,~ 109 g/km,
+2015,220 000 km,"2993 cm³, 313 AG (230kW)",Dyzelinas,Hečbekas,4/5,Visi varantys (4х4),Automatinė,Klimato kontrolė,,Kairėje,R20,2070,5,Vokietija,,,Euro 6,168 g/km,"7,6"
+306 000 km,"1995 cm³, 184 AG (135kW)",Dyzelinas,Universalas,4/5,Galiniai,Automatinė,Klimato kontrolė,Juoda,Kairėje,2022-04,1715,5,Vokietija,Euro 5,139 g/km,"6,5","4,6","5,3",
+2016,166 500 km,"1598 cm³, 136 AG (100kW)",Dyzelinas,Visureigis,4/5,Priekiniai,Automatinė,Klimato kontrolė,Balta,Kairėje,R18,,5,Prancūzija,Euro 6,134 g/km,"5,9","4,3","4,9"
+263 500 km,"1998 cm³, 136 AG (100kW)",Dyzelinas,Kupė (Coupe),2/3,Priekiniai,Mechaninė,Klimato kontrolė,Raudona / vyšninė,Kairėje,R16,1421,5,Prancūzija,Euro 4,,,151 g/km,"7,6","4,6"
+2004-07,398 000 km,"2148 cm³, 150 AG (110kW)",Dyzelinas,Keleiviniai mikroautobusai,4/5,Galiniai,Automatinė,Klimato kontrolė,Kita,Kairėje,R17,,6,,,,,,
+2014-07,99 016 km,"3500 cm³, 306 AG (225kW)",Benzinas,Sedanas,4/5,Visi varantys (4х4),Automatinė,Klimato kontrolė,Juoda,Kairėje,R19,,5,,Euro 5,,~ 174 g/km,,
+2011-03,285 000 km,"1968 cm³, 140 AG (103kW)",Dyzelinas,Universalas,4/5,,Mechaninė,,,Kairėje,,,,,,,,~ 150 g/km,
+1989-08,234 567 km,2000 cm³,Benzinas / dujos,Sedanas,4/5,,Mechaninė,,,Kairėje,,,,,,,,,
+244 000 km,"1700 cm³, 110 AG (81kW)",Dyzelinas,Universalas,4/5,Priekiniai,Mechaninė,Klimato kontrolė,Mėlyna / žydra,Kairėje,R16,Euro 5,,,~ 119 g/km,,,,,
