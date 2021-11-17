@@ -21,6 +21,7 @@ class AutopliusSpider(scrapy.Spider):
 
 
         cardict = {
+            "link":response.url,
             "Pagaminimo data": None,
             "Rida": None,
             "Variklis": None,
